@@ -47,4 +47,13 @@ The following is a list of the language-specific collections of novels included 
   * version DOI: tbc.
   * concept DOI: 
   * Number of novels: 
+  
+  ## Schema repository 
+  
+  **Schemas** 
+  
+  * v.0.7.0 ("level0 and level1 release")
+  * URL: https://github.com/COST-ELTeC/Schemas/releases/tag/v0.7.0
+  * version DOI: https://doi.org/10.5281/zenodo.3490758
+  * concept DOI: https://doi.org/10.5281/zenodo.3490757
 
