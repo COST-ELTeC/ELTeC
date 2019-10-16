@@ -17,6 +17,12 @@ ELTeC aims to provide multiple collections of 100 novels published between 1840 
 
 The concept DOI, covering all releases of this umbrella repository and always resolving to the latest release, is the following: https://doi.org/10.5281/zenodo.3462435. 
 
+## Conctacs 
+
+For issues related to this release or individual collections contained in this release, please use the relevant repository's issue tracker here on Github. 
+
+For more general questions, please contact the Working Group lead, Dr. Carolin Odebrecht (carolin.odebrecht@hu-berlin.de). 
+
 ## Release notes, v0.X.0 
 
 ELTeC is work in progress and the current release reflects this. We aim at 100 novels per language collection, but the current release includes any collection containing more than 20 novels. Also, there are still improvements to be made, in some cases, to the encoding of the texts and/or to the quality of the transcriptions. 
@@ -28,18 +34,20 @@ Generally speaking, the texts included in the current release are encoded either
 The following is a list of the language-specific collections of novels included in the current release. For each collection, we indicate the version number of this particular release of the collection, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
 
 * **ELTeC-por**
-  * v.0.X.0
-  * URL: 
-  * version DOI: tbc.
-  * concept DOI: tbc.
-  * Number of novels: 
+  * v.0.7.0
+  * URL: https://github.com/COST-ELTeC/ELTeC-por/releases/tag/v0.7.0
+  * version DOI: https://doi.org/10.5281/zenodo.3492068
+  * concept DOI: https://doi.org/10.5281/zenodo.3492067
+  * Number of novels: 70 (at level 1)
+  * Collection editor: Diana Santos
 
 * **ELTeC-fra**
   * v.0.X.0
   * URL: 
-  * version DOI: tbc.
+  * version DOI: 
   * concept DOI: https://doi.org/10.5281/zenodo.3462535  
   * Number of novels: 
+  * Collection editors: Christof Schöch and Pia Geißel
 
 * **ELTeC-eng**
   * v.0.X.0
@@ -47,6 +55,7 @@ The following is a list of the language-specific collections of novels included 
   * version DOI: tbc.
   * concept DOI: 
   * Number of novels: 
+  * Collection editor: Lou Burnard
   
   ## Schema repository 
   
