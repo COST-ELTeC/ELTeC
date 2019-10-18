@@ -34,7 +34,7 @@ Generally speaking, the texts included in the current release are encoded either
 The following is a list of the language-specific collections of novels included in the current release. For each collection, we indicate the version number of this particular release of the collection, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
 
 * **ELTeC-por**
-  * v.0.7.0
+  * v0.7.0
   * URL: https://github.com/COST-ELTeC/ELTeC-por/releases/tag/v0.7.0
   * version DOI: https://doi.org/10.5281/zenodo.3492068
   * concept DOI: https://doi.org/10.5281/zenodo.3492067
@@ -42,7 +42,7 @@ The following is a list of the language-specific collections of novels included 
   * Collection editor: Diana Santos
 
 * **ELTeC-fra**
-  * v.0.X.0
+  * v0.X.0
   * URL: 
   * version DOI: 
   * concept DOI: https://doi.org/10.5281/zenodo.3462535  
@@ -50,7 +50,7 @@ The following is a list of the language-specific collections of novels included 
   * Collection editors: Christof Schöch and Pia Geißel
 
 * **ELTeC-eng**
-  * v.0.X.0
+  * v0.X.0
   * URL: 
   * version DOI: tbc.
   * concept DOI: 
@@ -61,7 +61,7 @@ The following is a list of the language-specific collections of novels included 
   
   **Schemas** 
   
-  * v.0.7.0 ("level0 and level1 release")
+  * v0.7.0 ("level0 and level1 release")
   * URL: https://github.com/COST-ELTeC/Schemas/releases/tag/v0.7.0
   * version DOI: https://doi.org/10.5281/zenodo.3490758
   * concept DOI: https://doi.org/10.5281/zenodo.3490757
