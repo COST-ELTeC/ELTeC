@@ -33,29 +33,21 @@ Generally speaking, the texts included in the current release are encoded either
 
 The following is a list of the language-specific collections of novels included in the current release. For each collection, we indicate the version number of this particular release of the collection, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
 
-* **ELTeC-por**
+* **ELTeC-por (Portuguese)**  
   * v0.7.0
+  * Number of novels: 70 (at level 1)
+  * Collection editor: Diana Santos
   * URL: https://github.com/COST-ELTeC/ELTeC-por/releases/tag/v0.7.0
   * version DOI: https://doi.org/10.5281/zenodo.3492068
   * concept DOI: https://doi.org/10.5281/zenodo.3492067
-  * Number of novels: 70 (at level 1)
-  * Collection editor: Diana Santos
 
-* **ELTeC-fra**
-  * v0.X.0
-  * URL: 
-  * version DOI: 
-  * concept DOI: https://doi.org/10.5281/zenodo.3462535  
-  * Number of novels: 
-  * Collection editors: Christof Schöch and Pia Geißel
-
-* **ELTeC-eng**
-  * v0.X.0
-  * URL: 
-  * version DOI: tbc.
-  * concept DOI: 
-  * Number of novels: 
-  * Collection editor: Lou Burnard
+* **ELTeC-slv (Slovenian)**
+  * v0.7.0
+  * Number of novels: 94 (at level 1)
+  * Collection editors: Tomaž Erjavec, Miran Hladnik, Marko Juvan, Katja Mihurko Poniž
+  * URL: https://github.com/COST-ELTeC/ELTeC-slv/releases/tag/v0.7.0
+  * version DOI: https://doi.org/10.5281/zenodo.3518109
+  * concept DOI: https://doi.org/10.5281/zenodo.3518108
   
   ## Schema repository 
   
