@@ -31,10 +31,18 @@ Generally speaking, the texts included in the current release are encoded either
 
 ## Collections included
 
-The following is a list of the language-specific collections of novels included in the current release. For each collection, we indicate the version number of this particular release of the collection, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
+The following is a list of the language-specific collections of novels included in the current release. For each collection, we indicate the version number and date of this particular release of the collection, a brief description of the release content, the collection editors, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
+
+* **ELTeC-nor (Norwegian (Bokmål and Nynorsk)**  
+  * v0.3.0 (October 29, 2019)
+  * Number of novels: 27 (at level 1)
+  * Collection editors: Michael Preminger and Christian Emil Smith Ore
+  * URL: https://github.com/COST-ELTeC/ELTeC-nor/releases/tag/v0.3.0
+  * version DOI: https://doi.org/10.5281/zenodo.3521572
+  * concept DOI: https://doi.org/10.5281/zenodo.3521571
 
 * **ELTeC-por (Portuguese)**  
-  * v0.7.0
+  * v0.7.0 (October 17, 2019)
   * Number of novels: 70 (at level 1)
   * Collection editor: Diana Santos
   * URL: https://github.com/COST-ELTeC/ELTeC-por/releases/tag/v0.7.0
@@ -42,7 +50,7 @@ The following is a list of the language-specific collections of novels included 
   * concept DOI: https://doi.org/10.5281/zenodo.3492067
 
 * **ELTeC-slv (Slovenian)**
-  * v0.7.0
+  * v0.7.0 (October 25, 2019)
   * Number of novels: 94 (at level 1)
   * Collection editors: Tomaž Erjavec, Miran Hladnik, Marko Juvan, Katja Mihurko Poniž
   * URL: https://github.com/COST-ELTeC/ELTeC-slv/releases/tag/v0.7.0
