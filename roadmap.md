@@ -6,7 +6,7 @@ The ELTeC collections receive version numbers following a semantic versioning sc
 * The second digit represents substantial advances towards a major milestone, such as adding some new texts
 * The second digit represents minor fixes, such as improving the encoding of some files or adding metadata
 
-**First digit: major milestones:**
+**First digit: major milestones**
 
 * v1.0.0 when a given collection reaches 100 novels encoded at either level 0 or level 1 (even if the corpus composition criteria are not yet 100% respected)
 * v2.0.0 when a given collection reaches 100 novels encoded also at level 2
@@ -19,8 +19,7 @@ Whenever there is a substantial advance, this digit can be incremented either by
 
 **Third digit: minor fixes**
 
-* We set the third digit to zero by default
-* If some fixes are applied to a collection that do not reach the level of a substantial advance, either no new release is made, or if a new release is made, it will be made with an increment of one integer on the third digit.
+We set the third digit to zero by default. If some fixes are applied to a collection that do not reach the level of a substantial advance, either no new release is made, or if a new release is made, it will be made with an increment of one integer on the third digit.
 
 ## Umbrella release
 
@@ -37,3 +36,7 @@ The semantic versioning scheme described above is also used for the umbrella rel
 **Second digit: progress towards milestones** 
 
 We set the second digit as roughly indicating the proportion of work (between 0 and 10, for 0 to 100%) already achieved towards the next milestone.
+
+**Third digit: minor fixes** 
+
+This is used only for minor adjustments to the repository.
