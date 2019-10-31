@@ -49,6 +49,14 @@ The following is a list of the language-specific collections of novels included 
   * version DOI: https://doi.org/10.5281/zenodo.3492068
   * concept DOI: https://doi.org/10.5281/zenodo.3492067
 
+* **ELTeC-srp (Serbian)**  
+  * v0.3.0 (October 31, 2019)
+  * Number of novels: 30 (at level 1)
+  * Collection editor: Cvetana Krstev
+  * URL: https://github.com/COST-ELTeC/ELTeC-srp/releases/tag/v0.3.0
+  * version DOI: https://doi.org/10.5281/zenodo.3524057
+  * concept DOI: https://doi.org/10.5281/zenodo.3524056
+
 * **ELTeC-slv (Slovenian)**
   * v0.7.0 (October 25, 2019)
   * Number of novels: 94 (at level 1)
