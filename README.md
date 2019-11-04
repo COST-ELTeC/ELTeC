@@ -33,6 +33,14 @@ Generally speaking, the texts included in the current release are encoded either
 
 The following is a list of the language-specific collections of novels included in the current release. For each collection, we indicate the version number and date of this particular release of the collection, a brief description of the release content, the collection editors, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
 
+* **ELTeC-fra (French)**  
+  * v0.8.0 (November 4, 2019)
+  * Number of novels: 82 (at level 1)
+  * Collection editors: Christof Schöch and Pia Geißel
+  * URL: https://github.com/COST-ELTeC/ELTeC-fra/releases/tag/v0.8.0
+  * version DOI: https://doi.org/10.5281/zenodo.3528337
+  * concept DOI: https://doi.org/10.5281/zenodo.3462535
+
 * **ELTeC-nor (Norwegian (Bokmål and Nynorsk)**  
   * v0.3.0 (October 29, 2019)
   * Number of novels: 27 (at level 1)
