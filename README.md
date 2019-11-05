@@ -17,7 +17,7 @@ ELTeC aims to provide multiple collections of 100 novels published between 1840 
 
 The concept DOI, covering all releases of this umbrella repository and always resolving to the latest release, is the following: https://doi.org/10.5281/zenodo.3462435. 
 
-## Conctacs 
+## Contacts 
 
 For issues related to this release or individual collections contained in this release, please use the relevant repository's issue tracker here on Github. 
 
