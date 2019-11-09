@@ -33,6 +33,14 @@ Generally speaking, the texts included in the current release are encoded either
 
 The following is a list of the language-specific collections of novels included in the current release. For each collection, we indicate the version number and date of this particular release of the collection, a brief description of the release content, the collection editors, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
 
+* **ELTeC-eng (English)**  
+  * v0.9.1 (November 9, 2019)
+  * Number of novels: 92 (74 at level 1, 18 at level 0)
+  * Collection editors: Lou Burnard
+  * URL: https://github.com/COST-ELTeC/ELTeC-eng/tree/v0.9.1
+  * version DOI: https://doi.org/10.5281/zenodo.3533870
+  * concept DOI: https://doi.org/10.5281/zenodo.3533868
+
 * **ELTeC-fra (French)**  
   * v0.8.0 (November 4, 2019)
   * Number of novels: 82 (at level 1)
