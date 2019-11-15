@@ -33,6 +33,15 @@ Generally speaking, the texts included in the current release are encoded either
 
 The following is a list of the language-specific collections of novels included in the current release. For each collection, we indicate the version number and date of this particular release of the collection, a brief description of the release content, the collection editors, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
 
+
+* **ELTeC-deu (German)**  
+  * v0.9.0 (November 9, 2019)
+  * Number of novels: 100 (level 1)
+  * Collection editors: Fotis Jannidis, Leonard Konle, Carolin Odebrecht, an algorithm
+  * URL: https://github.com/COST-ELTeC/ELTeC-deu/releases/tag/v.0.9.0
+  * version DOI: https://doi.org/10.5281/zenodo.3543244
+  * concept DOI: https://doi.org/10.5281/zenodo.3543243
+
 * **ELTeC-eng (English)**  
   * v0.9.1 (November 9, 2019)
   * Number of novels: 92 (74 at level 1, 18 at level 0)
