@@ -23,9 +23,9 @@ For issues related to this release or individual collections contained in this r
 
 For more general questions, please contact the Working Group lead, Dr. Carolin Odebrecht (carolin.odebrecht@hu-berlin.de). 
 
-## Release notes, v0.X.0 
+## Release notes, v0.5.0 
 
-ELTeC is work in progress and the current release reflects this. We aim at 100 novels per language collection, but the current release includes any collection containing more than 20 novels. Also, there are still improvements to be made, in some cases, to the encoding of the texts and/or to the quality of the transcriptions. 
+ELTeC is work in progress and the current release reflects this. We aim at 100 novels per language collection, but the current release also includes collections containing less than that, but at least 20 novels. Also, there are still improvements to be made, in some cases, to the encoding of the texts, the quality of the transcriptions, or the level of conformance to the sampling criteria. 
 
 Generally speaking, the texts included in the current release are encoded either on a level 0 or level 1 encoding, according to the ELTeC scheme of levels of encoding. Please also take note of the README files included with each collection's release linked below. They describe the current state of each collection.  
 
