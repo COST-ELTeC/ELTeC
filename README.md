@@ -58,6 +58,14 @@ The following is a list of the language-specific collections of novels included 
   * version DOI: https://doi.org/10.5281/zenodo.3528337
   * concept DOI: https://doi.org/10.5281/zenodo.3462535
 
+* **ELTeC-ita (Italian)**  
+  * v0.3.0 (November 15, 2019)
+  * Number of novels: 36 (at level 1)
+  * Collection editors: Fabio Ciotti, Christof Schöch, Lou Burnard
+  * URL: https://github.com/COST-ELTeC/ELTeC-ita/releases/tag/v0.3.0
+  * version DOI: https://doi.org/10.5281/zenodo.3543333
+  * concept DOI: https://doi.org/10.5281/zenodo.3543333
+
 * **ELTeC-nor (Norwegian (Bokmål and Nynorsk)**  
   * v0.3.0 (October 29, 2019)
   * Number of novels: 27 (at level 1)
