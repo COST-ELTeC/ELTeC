@@ -29,6 +29,12 @@ ELTeC is work in progress and the current release reflects this. We aim at 100 n
 
 Generally speaking, the texts included in the current release are encoded either on a level 0 or level 1 encoding, according to the ELTeC scheme of levels of encoding. Please also take note of the README files included with each collection's release linked below. They describe the current state of each collection.  
 
+## Citation suggestion
+
+If you use any ELTeC collection(s) in your teaching or research, please reference ELTeC in manner consistent with academic best practices. Each collection provides its own citation suggestion, but if you would like to reference the entire ELTeC, please use the following reference: 
+
+* *European Literary Text Collection (ELTeC)*, version 0.5.0, November 2019, edited by Carolin Odebrecht, Lou Burnard and Christof Schöch. COST Action *Distant Reading for European Literary History* (CA16204). DOI: doi.org/10.5281/zenodo.3462436.   
+
 ## Collections included
 
 The following is a list of the language-specific collections of novels included in the current release. For each collection, we indicate the version number and date of this particular release of the collection, a brief description of the release content, the collection editors, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
