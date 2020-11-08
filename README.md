@@ -4,7 +4,7 @@
 
 ## General remarks 
 
-This is the umbrella repository that references the collections contained in any given release of ELTeC (European Literary Text Collection), a collection of novels in multiple European languages created by the COST Action *Distant Reading for European Literary History* (CA16204). 
+This is the umbrella repository that references the collections contained in any given release of ELTeC (European Literary Text Collection), a collection of novels in multiple European languages created by the COST Action *Distant Reading for European Literary History* (CA16204). Note that this umbrella repository only *refefences* the collections but *does not contain* the actual text files. 
 
 ELTeC aims to provide multiple collections of 100 novels published between 1840 and 1920 in their original language. There are collections for multiple European languages, but the novels included in them are not translations of each other. Each collection follows the same criteria for corpus composition, but these criteria allow for some flexibility in corpus composition. The novels are encoded in a common manner according to a specific subset of the Guidelines of the *Text Encoding Initiative*. More detailed information on ELTeC can be found in the following places: 
 
