@@ -8,18 +8,19 @@
    rZid : zenodo identifier for this release
 -->
 
-<listERN xmlns="http://distantreading.net/eltec/ns" zid="https://doi.org/10.5281/zenodo.4271467" n="1.0.0">
+<listERN xmlns="http://distantreading.net/eltec/ns"
+	 zid="https://doi.org/10.5281/zenodo.4271467" n="1.0.0">
  <date>2020-11-13</date>
- <ern xml:id="de" n="0.9.0" cZid="?" rZid="?"/> 
- <ern xml:id="en" n="1.0.0" cZid="?" rZid="?"/>
- <ern xml:id="fr" n="1.0.0" cZid="?" rZid="?"/>
- <ern xml:id="hu" n="1.0.0" cZid="?" rZid="?"/>
- <ern xml:id="pt" n="0.9.0" cZid="?" rZid="?"/>
- <ern xml:id="ro" n="0.7.0" cZid="?" rZid="?"/>
- <ern xml:id="sl" n="0.9.0" cZid="?" rZid="?"/>
- <ern xml:id="sp" n="0.9.0" cZid="?" rZid="?"/>
- <ern xml:id="sr" n="0.7.0" cZid="?" rZid="?"/>
- <ern xml:id="sw" n="0.7.0" cZid="?" rZid="?"/>
+ <ern xml:id="de" n="0.9.0" cZid="3543243" rZid="4271627"/> 
+ <ern xml:id="en" n="1.0.0" cZid="3533868" rZid="4271630"/>
+ <ern xml:id="fr" n="1.0.0" cZid="3462535" rZid="4264647"/>
+ <ern xml:id="hu" n="1.0.0" cZid="4271637" rZid="4271643"/>
+ <ern xml:id="pt" n="0.9.0" cZid="3492067" rZid="4271644"/>
+ <ern xml:id="ro" n="0.7.0" cZid="3543111" rZid="4271645"/>
+ <ern xml:id="sl" n="0.9.0" cZid="3518108" rZid="4271648"/>
+ <ern xml:id="sp" n="0.9.0" cZid="3662758" rZid="4271661"/>
+ <ern xml:id="sr" n="0.7.0" cZid="3524056" rZid="4271662"/>
+ <ern xml:id="sw" n="0.7.0" cZid="4271663" rZid="4271681"/>
 </listERN>
 
 <!-- from which, for each $lang, we generate something like this ...
