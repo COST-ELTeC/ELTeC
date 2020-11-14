@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- input file for checkup stylesheet containing an ern (eltec release number) for each repo
- with attributes 
-   xml:id : language code for the repo
-   n : release number (derived from e5c div 10)
-   cZid : zenodo identifier for this concept/collection
-   rZid : zenodo identifier for this release
+<!-- input file for checkup stylesheet 
+   @zPrefix and @zId provide prefix and identifier for eltec concept
+   each  child ern (eltec release number) has  attributes 
+    xml:id : language code for the repo
+    n : release number (derived from e5c div 10)
+    cZid : zenodo identifier for this concept/collection
+    rZid : zenodo identifier for this release
 -->
 
 <listERN xmlns="http://distantreading.net/eltec/ns"
-	 zid="https://doi.org/10.5281/zenodo.4271467" n="1.0.0">
+	 zPrefix="https://doi.org/10.5281/zenodo."
+	 zId="4271467" n="1.0.0">
  <date>2020-11-13</date>
  <ern xml:id="de" n="0.9.0" cZid="3543243" rZid="4271627"/> 
  <ern xml:id="en" n="1.0.0" cZid="3533868" rZid="4271630"/>
