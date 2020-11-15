@@ -97,7 +97,17 @@ The following is a list of the language-specific collections of novels included 
   * version DOI: https://doi.org/10.5281/zenodo.4271648
   * concept DOI: https://doi.org/10.5281/zenodo.3518108
 
+* **ELTeC-spa (Spanish)**
+  * v0.9.0 (November 15, 2020)
+  * Number of novels: 81 (at level 1)
+  * Collection editor: Borja Navarro Colorado
+  * URL: https://github.com/COST-ELTeC/ELTeC-spa/releases/tag/v0.9.0
+  * version DOI: https://doi.org/10.5281/zenodo.4271661
+  * concept DOI: https://doi.org/10.5281/zenodo.3662758
 
+
+
+4271661
 
 ### v0.5.0 (to be updated)
 
