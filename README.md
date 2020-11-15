@@ -81,6 +81,14 @@ The following is a list of the language-specific collections of novels included 
   * version DOI: https://doi.org/10.5281/zenodo.4271644
   * concept DOI: https://doi.org/10.5281/zenodo.3492067
 
+* **ELTeC-rom (Romanian)**  
+  * v0.7.0 (November 15, 2020)
+  * Number of novels: 80 (at level 1)
+  * Collection editor: Roxana Patras
+  * URL: https://github.com/COST-ELTeC/ELTeC-rom/releases/tag/v0.7.0
+  * version DOI: https://doi.org/10.5281/zenodo.4271645
+  * concept DOI: https://doi.org/10.5281/zenodo.3543111
+
 
 
 ### v0.5.0 (to be updated)
@@ -108,15 +116,6 @@ The following is a list of the language-specific collections of novels included 
   * URL: https://github.com/COST-ELTeC/ELTeC-nor/releases/tag/v0.3.0
   * version DOI: https://doi.org/10.5281/zenodo.3521572
   * concept DOI: https://doi.org/10.5281/zenodo.3521571
-
-
-* **ELTeC-rom (Romanian)**  
-  * v0.2.0 (November 15, 2019)
-  * Number of novels: 24 (at level 1)
-  * Collection editor: Roxana Patras
-  * URL: https://github.com/COST-ELTeC/ELTeC-rom/releases/tag/v0.2.0
-  * version DOI: https://doi.org/10.5281/zenodo.3543112
-  * concept DOI: https://doi.org/10.5281/zenodo.3543111
 
 * **ELTeC-srp (Serbian)**  
   * v0.3.0 (October 31, 2019)
