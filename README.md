@@ -47,7 +47,15 @@ If you use any ELTeC collection(s) in your teaching or research, please referenc
 
 The following is a list of the language-specific collections of novels included in the current release. For each collection, we indicate the version number and date of this particular release of the collection, a brief description of the release content, the collection editors, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
 
-### v1.0.0 (work in progress)
+### v1.0.0 (November 15, 2020)
+
+* **ELTeC-deu (German)**  
+  * v0.9.1 (November 15, 2020)
+  * Number of novels: 98 (level 0)
+  * Collection editors: Fotis Jannidis, Leonard Konle, Carolin Odebrecht, an algorithm
+  * URL: https://github.com/COST-ELTeC/ELTeC-deu/releases/tag/v.0.9.1
+  * version DOI: https://doi.org/10.5281/zenodo.4271627
+  * concept DOI: https://doi.org/10.5281/zenodo.3543243
 
 * **ELTeC-eng (English)**  
   * v1.1.0 (November 15, 2020)
@@ -122,36 +130,9 @@ The following is a list of the language-specific collections of novels included 
   * concept DOI: https://doi.org/10.5281/zenodo.4271663 
 
 
-### v0.5.0 (to be updated)
-
-* **ELTeC-deu (German)**  
-  * v0.9.0 (November 9, 2019)
-  * Number of novels: 100 (level 1)
-  * Collection editors: Fotis Jannidis, Leonard Konle, Carolin Odebrecht, an algorithm
-  * URL: https://github.com/COST-ELTeC/ELTeC-deu/releases/tag/v.0.9.0
-  * version DOI: https://doi.org/10.5281/zenodo.3543244
-  * concept DOI: https://doi.org/10.5281/zenodo.3543243
-
-* **ELTeC-ita (Italian)**  
-  * v0.3.0 (November 15, 2019)
-  * Number of novels: 36 (at level 1)
-  * Collection editors: Fabio Ciotti, Christof Schöch, Lou Burnard
-  * URL: https://github.com/COST-ELTeC/ELTeC-ita/releases/tag/v0.3.0
-  * version DOI: https://doi.org/10.5281/zenodo.3543333
-  * concept DOI: https://doi.org/10.5281/zenodo.3543333
-
-* **ELTeC-nor (Norwegian (Bokmål and Nynorsk)**  
-  * v0.3.0 (October 29, 2019)
-  * Number of novels: 27 (at level 1)
-  * Collection editors: Michael Preminger and Christian Emil Smith Ore
-  * URL: https://github.com/COST-ELTeC/ELTeC-nor/releases/tag/v0.3.0
-  * version DOI: https://doi.org/10.5281/zenodo.3521572
-  * concept DOI: https://doi.org/10.5281/zenodo.3521571
+## Schema repository 
   
-  ## Schema repository 
-  
-  **Schemas** 
-  
+* **Schemas** 
   * v0.7.0 ("level0 and level1 release")
   * URL: https://github.com/COST-ELTeC/Schemas/releases/tag/v0.7.0
   * version DOI: https://doi.org/10.5281/zenodo.3490758
