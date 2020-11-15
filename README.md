@@ -23,7 +23,15 @@ For issues related to this release or individual collections contained in this r
 
 For more general questions, please contact the Working Group lead, Dr. Carolin Odebrecht (carolin.odebrecht@hu-berlin.de). 
 
-## Release notes, v0.5.0 
+## Release notes
+
+### v1.0.0
+
+ELTeC is work in progress and the current release reflects this. We aim at 100 novels per language collection, but the current release also includes collections containing less than that, but at least 50 novels. Also, there are still improvements to be made, in some cases, to the encoding of the texts, the quality of the transcriptions, or the level of conformance to the sampling criteria. 
+
+Generally speaking, the texts included in the current release are encoded either on a level 0 or level 1 encoding, according to the ELTeC scheme of levels of encoding. Please also take note of the README files included with each collection's release linked below. They describe the current state of each collection.  
+
+### v0.5.0 
 
 ELTeC is work in progress and the current release reflects this. We aim at 100 novels per language collection, but the current release also includes collections containing less than that, but at least 20 novels. Also, there are still improvements to be made, in some cases, to the encoding of the texts, the quality of the transcriptions, or the level of conformance to the sampling criteria. 
 
@@ -39,6 +47,18 @@ If you use any ELTeC collection(s) in your teaching or research, please referenc
 
 The following is a list of the language-specific collections of novels included in the current release. For each collection, we indicate the version number and date of this particular release of the collection, a brief description of the release content, the collection editors, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
 
+### v1.0.0 (work in progress)
+
+* **ELTeC-fra (French)**  
+  * v1.0.0 (November 14, 2020)
+  * Number of novels: 100 (at level 1)
+  * Collection editors: Christof Schöch and Lou Burnard
+  * URL: https://github.com/COST-ELTeC/ELTeC-fra/releases/tag/v1.0.0
+  * version DOI: https://doi.org/10.5281/zenodo.4264647
+  * concept DOI: https://doi.org/10.5281/zenodo.3462535
+
+
+### v0.5.0 (to be updated)
 
 * **ELTeC-deu (German)**  
   * v0.9.0 (November 9, 2019)
@@ -56,13 +76,6 @@ The following is a list of the language-specific collections of novels included 
   * version DOI: https://doi.org/10.5281/zenodo.3533870
   * concept DOI: https://doi.org/10.5281/zenodo.3533868
 
-* **ELTeC-fra (French)**  
-  * v0.8.0 (November 4, 2019)
-  * Number of novels: 82 (at level 1)
-  * Collection editors: Christof Schöch and Pia Geißel
-  * URL: https://github.com/COST-ELTeC/ELTeC-fra/releases/tag/v0.8.0
-  * version DOI: https://doi.org/10.5281/zenodo.3528337
-  * concept DOI: https://doi.org/10.5281/zenodo.3462535
 
 * **ELTeC-ita (Italian)**  
   * v0.3.0 (November 15, 2019)
