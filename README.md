@@ -136,11 +136,11 @@ The following is a list of the language-specific collections of novels included 
   * concept DOI: https://doi.org/10.5281/zenodo.3521571
 
 * **ELTeC-srp (Serbian)**  
-  * v0.3.0 (October 31, 2019)
-  * Number of novels: 30 (at level 1)
+  * v0.7.0 (November 15, 2020)
+  * Number of novels: 67 (at level 1)
   * Collection editor: Cvetana Krstev
-  * URL: https://github.com/COST-ELTeC/ELTeC-srp/releases/tag/v0.3.0
-  * version DOI: https://doi.org/10.5281/zenodo.3524057
+  * URL: https://github.com/COST-ELTeC/ELTeC-srp/releases/tag/v0.7.0
+  * version DOI: https://doi.org/10.5281/zenodo.4271662
   * concept DOI: https://doi.org/10.5281/zenodo.3524056
 
   
