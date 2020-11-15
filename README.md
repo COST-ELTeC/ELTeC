@@ -89,6 +89,14 @@ The following is a list of the language-specific collections of novels included 
   * version DOI: https://doi.org/10.5281/zenodo.4271645
   * concept DOI: https://doi.org/10.5281/zenodo.3543111
 
+* **ELTeC-slv (Slovenian)**
+  * v0.7.1 (November 15, 2020)
+  * Number of novels: 100 (at level 1 and 2)
+  * Collection editors: Tomaž Erjavec, Miran Hladnik, Marko Juvan, Katja Mihurko Poniž
+  * URL: https://github.com/COST-ELTeC/ELTeC-slv/releases/tag/v0.7.1
+  * version DOI: https://doi.org/10.5281/zenodo.4271648
+  * concept DOI: https://doi.org/10.5281/zenodo.3518108
+
 
 
 ### v0.5.0 (to be updated)
@@ -125,13 +133,6 @@ The following is a list of the language-specific collections of novels included 
   * version DOI: https://doi.org/10.5281/zenodo.3524057
   * concept DOI: https://doi.org/10.5281/zenodo.3524056
 
-* **ELTeC-slv (Slovenian)**
-  * v0.7.0 (October 25, 2019)
-  * Number of novels: 94 (at level 1)
-  * Collection editors: Tomaž Erjavec, Miran Hladnik, Marko Juvan, Katja Mihurko Poniž
-  * URL: https://github.com/COST-ELTeC/ELTeC-slv/releases/tag/v0.7.0
-  * version DOI: https://doi.org/10.5281/zenodo.3518109
-  * concept DOI: https://doi.org/10.5281/zenodo.3518108
   
   ## Schema repository 
   
