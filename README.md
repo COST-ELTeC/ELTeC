@@ -73,6 +73,14 @@ The following is a list of the language-specific collections of novels included 
   * version DOI: https://doi.org/10.5281/zenodo.4271643
   * concept DOI: https://doi.org/10.5281/zenodo.4271637
 
+* **ELTeC-por (Portuguese)**  
+  * v0.9.0 (November 15, 2020)
+  * Number of novels: 100 (at level 1)
+  * Collection editor: Diana Santos
+  * URL: https://github.com/COST-ELTeC/ELTeC-por/releases/tag/v0.9.0
+  * version DOI: https://doi.org/10.5281/zenodo.4271644
+  * concept DOI: https://doi.org/10.5281/zenodo.3492067
+
 
 
 ### v0.5.0 (to be updated)
@@ -101,13 +109,6 @@ The following is a list of the language-specific collections of novels included 
   * version DOI: https://doi.org/10.5281/zenodo.3521572
   * concept DOI: https://doi.org/10.5281/zenodo.3521571
 
-* **ELTeC-por (Portuguese)**  
-  * v0.7.0 (October 17, 2019)
-  * Number of novels: 70 (at level 1)
-  * Collection editor: Diana Santos
-  * URL: https://github.com/COST-ELTeC/ELTeC-por/releases/tag/v0.7.0
-  * version DOI: https://doi.org/10.5281/zenodo.3492068
-  * concept DOI: https://doi.org/10.5281/zenodo.3492067
 
 * **ELTeC-rom (Romanian)**  
   * v0.2.0 (November 15, 2019)
