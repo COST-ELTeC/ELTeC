@@ -58,12 +58,21 @@ The following is a list of the language-specific collections of novels included 
   * concept DOI: https://doi.org/10.5281/zenodo.3533868
 
 * **ELTeC-fra (French)**  
-  * v1.0.0 (November 14, 2020)
+  * v1.0.0 (November 15, 2020)
   * Number of novels: 100 (at level 1)
   * Collection editors: Christof Schöch and Lou Burnard
   * URL: https://github.com/COST-ELTeC/ELTeC-fra/releases/tag/v1.0.0
   * version DOI: https://doi.org/10.5281/zenodo.4264647
   * concept DOI: https://doi.org/10.5281/zenodo.3462535
+  
+  * **ELTeC-hun (Hungarian)**  
+  * v1.0.0 (November 15, 2020)
+  * Number of novels: 100 (at level 1)
+  * Collection editor: Gábor Pálko
+  * URL: https://github.com/COST-ELTeC/ELTeC-hun/releases/tag/v1.0.0
+  * version DOI: https://doi.org/10.5281/zenodo.4271643
+  * concept DOI: https://doi.org/10.5281/zenodo.4271637
+
 
 
 ### v0.5.0 (to be updated)
