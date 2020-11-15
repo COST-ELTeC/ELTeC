@@ -49,6 +49,14 @@ The following is a list of the language-specific collections of novels included 
 
 ### v1.0.0 (work in progress)
 
+* **ELTeC-eng (English)**  
+  * v1.1.0 (November 15, 2020)
+  * Number of novels: 100 (87 at level 1, 13 at level 0)
+  * Collection editors: Lou Burnard
+  * URL: https://github.com/COST-ELTeC/ELTeC-eng/tree/v1.0.0
+  * version DOI: https://doi.org/10.5281/zenodo.4271630
+  * concept DOI: https://doi.org/10.5281/zenodo.3533868
+
 * **ELTeC-fra (French)**  
   * v1.0.0 (November 14, 2020)
   * Number of novels: 100 (at level 1)
@@ -67,15 +75,6 @@ The following is a list of the language-specific collections of novels included 
   * URL: https://github.com/COST-ELTeC/ELTeC-deu/releases/tag/v.0.9.0
   * version DOI: https://doi.org/10.5281/zenodo.3543244
   * concept DOI: https://doi.org/10.5281/zenodo.3543243
-
-* **ELTeC-eng (English)**  
-  * v0.9.1 (November 9, 2019)
-  * Number of novels: 92 (74 at level 1, 18 at level 0)
-  * Collection editors: Lou Burnard
-  * URL: https://github.com/COST-ELTeC/ELTeC-eng/tree/v0.9.1
-  * version DOI: https://doi.org/10.5281/zenodo.3533870
-  * concept DOI: https://doi.org/10.5281/zenodo.3533868
-
 
 * **ELTeC-ita (Italian)**  
   * v0.3.0 (November 15, 2019)
