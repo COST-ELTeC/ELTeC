@@ -4,12 +4,12 @@
 
 ## General remarks 
 
-This is the umbrella repository that references the collections contained in any given release of ELTeC (European Literary Text Collection), a collection of novels in multiple European languages created by the COST Action *Distant Reading for European Literary History* (CA16204). Note that this umbrella repository only *refefences* the collections but *does not contain* the actual text files. 
+This is the umbrella repository that references the collections contained in any given release of ELTeC (European Literary Text Collection), a collection of novels in multiple European languages created by the COST Action *Distant Reading for European Literary History* (CA16204). Note that this umbrella repository only *references* the collections but *does not contain* the actual text files. 
 
-ELTeC aims to provide multiple collections of 100 novels published between 1840 and 1920 in their original language. There are collections for multiple European languages, but the novels included in them are not translations of each other. Each collection follows the same criteria for corpus composition, but these criteria allow for some flexibility in corpus composition. The novels are encoded in a common manner according to a specific subset of the Guidelines of the *Text Encoding Initiative*. More detailed information on ELTeC can be found in the following places: 
+ELTeC aims to provide multiple collections of 100 novels published between 1840 and 1920 in their original language. There are collections for multiple European languages, but the novels included in them are not translations of each other. Each collection follows the same criteria for corpus composition, but these criteria allow for some flexibility in corpus composition. The level of compliance with the corpus composition criteria is summarized in the E5C score. The novels are encoded in a common manner according to a specific subset of the Guidelines of the *Text Encoding Initiative* that is documented in a three-tiered schema. More detailed information on ELTeC can be found in the following places: 
 
-* ELTeC is described succinctly here: https://www.distant-reading.net/eltec/. 
 * An overview of the current state in ELTeC corpus building can be found here: https://distantreading.github.io/ELTeC/
+* ELTeC is described succinctly here: https://www.distant-reading.net/eltec/. 
 * Work on the ELTeC collections is in progress here: https://github.com/COST-ELTeC
 * The criteria used for corpus composition can be found here: https://distantreading.github.io/sampling_proposal.html
 * The encoding guidelines used for the XML-TEI markup (level 1) can be found here: https://distantreading.github.io/Schema/eltec-1.html 
@@ -21,15 +21,15 @@ The concept DOI, covering all releases of this umbrella repository and always re
 
 For issues related to this release or individual collections contained in this release, please use the relevant repository's issue tracker here on Github. 
 
-For more general questions, please contact the Working Group lead, Dr. Carolin Odebrecht (carolin.odebrecht@hu-berlin.de). 
+For more general questions, please contact the Working Group lead, Martina Scholger (martina.scholger@uni-graz.at). 
 
 ## Release notes
 
 ### v1.0.0 (November 15, 2020; DOI: https://doi.org/10.5281/zenodo.4274954)
 
-ELTeC is work in progress and the current release reflects this. We aim at 100 novels per language collection, but the current release also includes collections containing less than that, but at least 50 novels. Also, there are still improvements to be made, in some cases, to the encoding of the texts, the quality of the transcriptions, or the level of conformance to the sampling criteria. 
+ELTeC is work in progress and the current release reflects this. We aim at 100 novels per language collection, but the current release also includes collections containing less than that, but at least 50 novels. Additional collections are in preparation on GitHub and will be included in future releases. Also, there are still improvements to be made, in some cases, to the encoding of the texts, the quality of the transcriptions, or the level of conformance to the sampling criteria.  
 
-Generally speaking, the texts included in the current release are encoded either on a level 0 or level 1 encoding, according to the ELTeC scheme of levels of encoding. Please also take note of the README files included with each collection's release linked below. They describe the current state of each collection.  
+Generally speaking, the texts included in the current release are encoded either on a level 0 or level 1 encoding, according to the ELTeC scheme of levels of encoding. Please also take note of the README files included with each collection's release linked below. They describe the current state of each collection and provide further information, e.g. on contributors and text sources, and a citation suggestion.
 
 ### v0.5.0 (November 2019)
 
@@ -41,11 +41,11 @@ Generally speaking, the texts included in the current release are encoded either
 
 If you use any ELTeC collection(s) in your teaching or research, please reference ELTeC in manner consistent with academic best practices. Each collection provides its own citation suggestion, but if you would like to reference the entire ELTeC, please use the following reference: 
 
-* *European Literary Text Collection (ELTeC)*, version 0.5.0, November 2019, edited by Carolin Odebrecht, Lou Burnard and Christof Schöch. COST Action *Distant Reading for European Literary History* (CA16204). DOI: doi.org/10.5281/zenodo.3462436.   
+* *European Literary Text Collection (ELTeC)*, version 1.0.0, November 2020, edited by Carolin Odebrecht, Lou Burnard and Christof Schöch. COST Action *Distant Reading for European Literary History* (CA16204). DOI: doi.org/10.5281/zenodo.4274954. 
 
 ## Collections included
 
-The following is a list of the language-specific collections of novels included in the current release. For each collection, we indicate the version number and date of this particular release of the collection, a brief description of the release content, the collection editors, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
+The following is a list of the language-specific collections of novels included in the current release, in alphabetical order. For each collection, we indicate the version number and date of this particular release of the collection, a brief description of the release content, the collection editors, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
 
 ### v1.0.0 (November 15, 2020, DOI: https://doi.org/10.5281/zenodo.4274954)
 
