@@ -121,7 +121,7 @@ The following is a list of the language-specific collections of novels included 
   * version DOI: https://doi.org/10.5281/zenodo.4271662
   * concept DOI: https://doi.org/10.5281/zenodo.3524056
 
-* **ELTeC-swe (Swedich)**
+* **ELTeC-swe (Swedish)**
   * v0.7.0 (November 15, 2020)
   * Number of novels: 58 (at level 1)
   * Collection editor: Ljubica Miočević and Cai Alfredson
