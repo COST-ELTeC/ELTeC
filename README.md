@@ -43,6 +43,18 @@ If you use any ELTeC collection(s) in your teaching or research, please referenc
 
 * *European Literary Text Collection (ELTeC)*, version 1.0.0, November 2020, edited by Carolin Odebrecht, Lou Burnard and Christof Schöch. COST Action *Distant Reading for European Literary History* (CA16204). DOI: doi.org/10.5281/zenodo.4274954. 
 
+```
+@collection{odebrecht_ELTeC_2020,
+  maintitle = {European Literary Text Collection ({ELTeC})},
+  editor = {Odebrecht, Carolin and Burnard, Lou and Schöch, Christof},
+  version = {v1.0.0},
+  date = {2020-11},
+  publisher = {COST Action Distant Reading for European Literary History},
+  url = {https://github.com/COST-ELTeC/ELTeC-fra/},
+  doi = {10.5281/zenodo.4274954},
+  }
+```
+
 ## Collections included
 
 The following is a list of the language-specific collections of novels included in the current release, in alphabetical order. For each collection, we indicate the version number and date of this particular release of the collection, a brief description of the release content, the collection editors, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
