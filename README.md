@@ -27,7 +27,7 @@ For more general questions, please contact the Working Group lead, Martina Schol
 
 ### v1.0.0 (November 15, 2020; DOI: https://doi.org/10.5281/zenodo.4274954)
 
-ELTeC is work in progress and the current release reflects this. We aim at 100 novels per language collection, but the current release also includes collections containing less than that, but at least 50 novels. Additional collections are in preparation on GitHub and will be included in future releases. Also, there are still improvements to be made, in some cases, to the encoding of the texts, the quality of the transcriptions, or the level of conformance to the sampling criteria.  
+ELTeC is work in progress and the current release reflects this. We aim at 100 novels per language collection, but the current release also includes collections containing less than that, but at least 50 novels. Collections in this release include: German, English, French, Hungarian, Portuguese, Romanian, Slovenian, Spanish, Serbian and Swedish (see details below). Additional collections are in preparation on GitHub and will be included in future releases. Also, there are still improvements to be made, in some cases, to the encoding of the texts, the quality of the transcriptions, or the level of conformance to the sampling criteria.  
 
 Generally speaking, the texts included in the current release are encoded either on a level 0 or level 1 encoding, according to the ELTeC scheme of levels of encoding. Please also take note of the README files included with each collection's release linked below. They describe the current state of each collection and provide further information, e.g. on contributors and text sources, and a citation suggestion.
 
