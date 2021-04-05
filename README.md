@@ -4,9 +4,9 @@
 
 ## General remarks 
 
-This is the umbrella repository that references the collections contained in any given release of ELTeC (European Literary Text Collection), a collection of novels in multiple European languages created by the COST Action *Distant Reading for European Literary History* (CA16204). Note that this umbrella repository only *references* the collections but *does not contain* the actual text files. 
+This is the umbrella repository that references the corpora contained in any given release of ELTeC (European Literary Text Collection), a collection of novels in multiple European languages created by the COST Action *Distant Reading for European Literary History* (CA16204). Note that this umbrella repository only *references* the collections but *does not contain* the actual text files. 
 
-ELTeC aims to provide multiple collections of 100 novels published between 1840 and 1920 in their original language. There are collections for multiple European languages, but the novels included in them are not translations of each other. Each collection follows the same criteria for corpus composition, but these criteria allow for some flexibility in corpus composition. The level of compliance with the corpus composition criteria is summarized in the E5C score. The novels are encoded in a common manner according to a specific subset of the Guidelines of the *Text Encoding Initiative* that is documented in a three-tiered schema. More detailed information on ELTeC can be found in the following places: 
+ELTeC aims to provide multiple corpora of 100 novels published between 1840 and 1920 in their original language. There are corpora for multiple European languages, but the novels included in them are not translations of each other. Each corpus follows the same criteria for corpus composition, but these criteria allow for some flexibility. The level of compliance with the corpus composition criteria is summarized in the E5C score. The novels are encoded in a common manner according to a specific subset of the Guidelines of the *Text Encoding Initiative* that is documented in a three-tiered schema. More detailed information on ELTeC can be found in the following places: 
 
 * An overview of the current state in ELTeC corpus building can be found here: https://distantreading.github.io/ELTeC/
 * ELTeC is described succinctly here: https://www.distant-reading.net/eltec/. 
@@ -14,6 +14,7 @@ ELTeC aims to provide multiple collections of 100 novels published between 1840 
 * The criteria used for corpus composition can be found here: https://distantreading.github.io/sampling_proposal.html
 * The encoding guidelines used for the XML-TEI markup (level 1) can be found here: https://distantreading.github.io/Schema/eltec-1.html 
 * The schemas used to validate the XML-TEI files can be found here (and are included in each release): https://github.com/COST-ELTeC/Schemas 
+* ELTeC releases are made available on Zenodo in the COST-ELTeC community: https://zenodo.org/communities/eltec/search?page=1&size=25 
 
 The concept DOI, covering all releases of this umbrella repository and always resolving to the latest release, is the following: https://doi.org/10.5281/zenodo.3462435. 
 
@@ -24,6 +25,11 @@ For issues related to this release or individual collections contained in this r
 For more general questions, please contact the Working Group lead, Martina Scholger (martina.scholger@uni-graz.at). 
 
 ## Release notes
+
+### v1.1.0 (April 5, 2021; DOI: https://doi.org/10.5281/zenodo.4662444)
+
+ELTeC is work in progress and the current release reflects this. This release contains 14 different corpora in total with at least 50 novels each. Collections in this release include: Czech, German, English, French, Hungarian, Norwegian, Polish, Portuguese, Romanian, Slovenian, Spanish, Serbian, Swedish and Ukrainian. There are 8 corpora that are complete, containing 100 novels. There are 3 complete corpora that also provide versions with linguistic annotation. See the section "Corpora included" below for details on each collection. 
+
 
 ### v1.0.0 (November 15, 2020; DOI: https://doi.org/10.5281/zenodo.4274954)
 
@@ -41,18 +47,18 @@ Generally speaking, the texts included in the current release are encoded either
 
 If you use any ELTeC collection(s) in your teaching or research, please reference ELTeC in manner consistent with academic best practices. Each collection provides its own citation suggestion, but if you would like to reference the entire ELTeC, please use the following reference: 
 
-* *European Literary Text Collection (ELTeC)*, version 1.0.0, November 2020, edited by Carolin Odebrecht, Lou Burnard and Christof Schöch. COST Action *Distant Reading for European Literary History* (CA16204). DOI: doi.org/10.5281/zenodo.4274954. 
+* *European Literary Text Collection (ELTeC)*, version 1.1.0, April 2021, edited by Carolin Odebrecht, Lou Burnard and Christof Schöch. COST Action *Distant Reading for European Literary History* (CA16204). DOI: doi.org/10.5281/zenodo.4662444. 
 
 ```
-@collection{odebrecht_ELTeC_2020,
+@collection{odebrecht_ELTeC_2021,
   maintitle = {European Literary Text Collection ({ELTeC})},
   editor = {Odebrecht, Carolin and Burnard, Lou and Schöch, Christof},
-  version = {v1.0.0},
-  year = {2020},
-  month = {11},
+  version = {v1.1.0},
+  year = {2021},
+  month = {4},
   publisher = {COST Action Distant Reading for European Literary History},
-  url = {https://github.com/COST-ELTeC/ELTeC-fra/},
-  doi = {10.5281/zenodo.4274954},
+  url = {https://github.com/COST-ELTeC/ELTeC},
+  doi = {10.5281/zenodo.4662444},
   }
 ```
 
@@ -60,78 +66,94 @@ If you use any ELTeC collection(s) in your teaching or research, please referenc
 
 The following is a list of the language-specific collections of novels included in the current release, in alphabetical order. For each collection, we indicate the version number and date of this particular release of the collection, a brief description of the release content, the collection editors, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
 
-### v1.0.0 (November 15, 2020, DOI: https://doi.org/10.5281/zenodo.4274954)
+### v1.1.0 (April 5, 2021, DOI: https://doi.org/10.5281/zenodo.4662444)
+
+* **ELTeC-cze (Czech)**  
+  * v1.0.0 (April 5, 2021)
+  * Number of novels: 100 (level 1)
+  * Collection editors: Institute of the Czech National Corpus
+  * URL: https://github.com/COST-ELTeC/ELTeC-cze/releases/tag/v.1.0.0
+  * version DOI: https://doi.org/10.5281/zenodo.4662459
+  * concept DOI: tbc.
 
 * **ELTeC-deu (German)**  
-  * v0.9.1 (November 15, 2020)
-  * Number of novels: 98 (level 0)
+  * v1.0.0 (April 5, 2021)
+  * Number of novels: 100 (level 0)
   * Collection editors: Fotis Jannidis, Leonard Konle, Carolin Odebrecht, an algorithm
-  * URL: https://github.com/COST-ELTeC/ELTeC-deu/releases/tag/v.0.9.1
-  * version DOI: https://doi.org/10.5281/zenodo.4271627
+  * URL: https://github.com/COST-ELTeC/ELTeC-deu/releases/tag/v.1.0.0
+  * version DOI: https://doi.org/10.5281/zenodo.4662482
   * concept DOI: https://doi.org/10.5281/zenodo.3543243
 
 * **ELTeC-eng (English)**  
-  * v1.1.0 (November 15, 2020)
+  * v1.0.1 (April 5, 2021)
   * Number of novels: 100 (87 at level 1, 13 at level 0)
-  * Collection editors: Lou Burnard
-  * URL: https://github.com/COST-ELTeC/ELTeC-eng/tree/v1.0.0
-  * version DOI: https://doi.org/10.5281/zenodo.4271630
+  * Collection editor: Lou Burnard
+  * URL: https://github.com/COST-ELTeC/ELTeC-eng/tree/v1.0.1
+  * version DOI: https://doi.org/10.5281/zenodo.4662490
   * concept DOI: https://doi.org/10.5281/zenodo.3533868
 
 * **ELTeC-fra (French)**  
-  * v1.0.0 (November 15, 2020)
+  * v1.0.1 (April 5, 2021)
   * Number of novels: 100 (at level 1)
   * Collection editors: Christof Schöch and Lou Burnard
-  * URL: https://github.com/COST-ELTeC/ELTeC-fra/releases/tag/v1.0.0
-  * version DOI: https://doi.org/10.5281/zenodo.4264647
+  * URL: https://github.com/COST-ELTeC/ELTeC-fra/releases/tag/v1.0.1
+  * version DOI: https://doi.org/10.5281/zenodo.4662433
   * concept DOI: https://doi.org/10.5281/zenodo.3462535
   
 * **ELTeC-hun (Hungarian)**  
-  * v1.0.0 (November 15, 2020)
-  * Number of novels: 100 (at level 1)
+  * v2.0.0 (April 5, 2021)
+  * Number of novels: 100 (at level 1 and level 2)
   * Collection editor: Gábor Pálko
-  * URL: https://github.com/COST-ELTeC/ELTeC-hun/releases/tag/v1.0.0
-  * version DOI: https://doi.org/10.5281/zenodo.4271643
+  * URL: https://github.com/COST-ELTeC/ELTeC-hun/releases/tag/v2.0.0
+  * version DOI: https://doi.org/10.5281/zenodo.4662499
   * concept DOI: https://doi.org/10.5281/zenodo.4271637
 
-* **ELTeC-por (Portuguese)**  
-  * v0.9.0 (November 15, 2020)
+* **ELTeC-pol (Polish)**  
+  * v1.0.0 (April 5, 2021)
   * Number of novels: 100 (at level 1)
+  * Collection editor: Joanna Byszuk, Jan Rybicki
+  * URL: https://github.com/COST-ELTeC/ELTeC-pol/releases/tag/v1.0.0
+  * version DOI: https://doi.org/10.5281/zenodo.4662596
+  * concept DOI: tbc
+
+* **ELTeC-por (Portuguese)**  
+  * v2.0.0 (April 5, 2021)
+  * Number of novels: 100 (at level 1 and level 2)
   * Collection editor: Diana Santos
-  * URL: https://github.com/COST-ELTeC/ELTeC-por/releases/tag/v0.9.0
-  * version DOI: https://doi.org/10.5281/zenodo.4271644
+  * URL: https://github.com/COST-ELTeC/ELTeC-por/releases/tag/v2.0.0
+  * version DOI: https://doi.org/10.5281/zenodo.4288235
   * concept DOI: https://doi.org/10.5281/zenodo.3492067
 
 * **ELTeC-rom (Romanian)**  
-  * v0.7.0 (November 15, 2020)
-  * Number of novels: 80 (at level 1)
+  * v0.9.0 (April 5, 2021)
+  * Number of novels: 95 (at level 1)
   * Collection editor: Roxana Patras
-  * URL: https://github.com/COST-ELTeC/ELTeC-rom/releases/tag/v0.7.0
-  * version DOI: https://doi.org/10.5281/zenodo.4271645
+  * URL: https://github.com/COST-ELTeC/ELTeC-rom/releases/tag/v0.9.0
+  * version DOI: https://doi.org/10.5281/zenodo.4662599
   * concept DOI: https://doi.org/10.5281/zenodo.3543111
 
 * **ELTeC-slv (Slovenian)**
-  * v0.7.1 (November 15, 2020)
+  * v2.0.0 (April 5, 2021)
   * Number of novels: 100 (at level 1 and 2)
   * Collection editors: Tomaž Erjavec, Miran Hladnik, Marko Juvan, Katja Mihurko Poniž
-  * URL: https://github.com/COST-ELTeC/ELTeC-slv/releases/tag/v0.7.1
-  * version DOI: https://doi.org/10.5281/zenodo.4271648
+  * URL: https://github.com/COST-ELTeC/ELTeC-slv/releases/tag/v2.0.0
+  * version DOI: https://doi.org/10.5281/zenodo.4662600
   * concept DOI: https://doi.org/10.5281/zenodo.3518108
 
 * **ELTeC-spa (Spanish)**
-  * v0.9.0 (November 15, 2020)
-  * Number of novels: 81 (at level 1)
+  * v0.9.1 (April 5, 2021)
+  * Number of novels: 83 (at level 1)
   * Collection editor: Borja Navarro Colorado
-  * URL: https://github.com/COST-ELTeC/ELTeC-spa/releases/tag/v0.9.0
-  * version DOI: https://doi.org/10.5281/zenodo.4271661
+  * URL: https://github.com/COST-ELTeC/ELTeC-spa/releases/tag/v0.9.1
+  * version DOI: https://doi.org/10.5281/zenodo.4662603
   * concept DOI: https://doi.org/10.5281/zenodo.3662758
 
 * **ELTeC-srp (Serbian)**  
-  * v0.7.0 (November 15, 2020)
-  * Number of novels: 67 (at level 1)
+  * v0.9.0 (April 5, 2021)
+  * Number of novels: 90 (at level 1)
   * Collection editor: Cvetana Krstev
-  * URL: https://github.com/COST-ELTeC/ELTeC-srp/releases/tag/v0.7.0
-  * version DOI: https://doi.org/10.5281/zenodo.4271662
+  * URL: https://github.com/COST-ELTeC/ELTeC-srp/releases/tag/v0.9.0
+  * version DOI: https://doi.org/10.5281/zenodo.4662604
   * concept DOI: https://doi.org/10.5281/zenodo.3524056
 
 * **ELTeC-swe (Swedish)**
@@ -141,6 +163,14 @@ The following is a list of the language-specific collections of novels included 
   * URL: https://github.com/COST-ELTeC/ELTeC-swe/releases/tag/v0.7.0
   * version DOI: https://doi.org/10.5281/zenodo.4271681
   * concept DOI: https://doi.org/10.5281/zenodo.4271663 
+
+* **ELTeC-ukr (Ukrainian)**
+  * v0.5.0 (April 5, 2021)
+  * Number of novels: 50 (at level 1)
+  * Collection editor: Dmytro Yesypenko and Mykhailo Nazarenko
+  * URL: https://github.com/COST-ELTeC/ELTeC-ukr/releases/tag/v0.5.0
+  * version DOI: https://doi.org/10.5281/zenodo.4662617
+  * concept DOI: tbc
 
 
 ## Schema repository 
