@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- input file for checkup stylesheet 
+   @zPrefix and @zId are prefix and identifier for umbrella eltec concept
+   each  child ern (eltec release number) has  attributes 
+    xml:id : language code for the repo
+    n : release number (derived from e5c div 10)
+    cZid : zenodo identifier for this concept/collection
+    rZid : zenodo identifier for this release/version
+-->
+
+<listERN xmlns="http://distantreading.net/eltec/ns"
+	 zPrefix="https://doi.org/10.5281/zenodo."
+	 zId="4662444" n="1.1.0">
+ <date>2021-04-06</date>
+ <ern xml:id="cz" n="1.0.0" cZid="4662458" rZid="4662721"/> 
+ <ern xml:id="de" n="1.0.0" cZid="3543243" rZid="4662482"/> 
+ <ern xml:id="en" n="1.0.1" cZid="3533868" rZid="4662490"/>
+ <ern xml:id="fr" n="1.0.1" cZid="3462535" rZid="4662433"/>
+ <ern xml:id="hu" n="2.0.0" cZid="4271637" rZid="4662499"/>
+ <ern xml:id="no" n="0.5.0" cZid="4662595" rZid="4662724"/>
+ <ern xml:id="pl" n="1.0.0" cZid="4662589" rZid="4662725"/>
+ <ern xml:id="pt" n="2.0.0" cZid="3492067" rZid="4288235"/>
+ <ern xml:id="ro" n="0.9.0" cZid="3543111" rZid="4662599"/>
+ <ern xml:id="sl" n="2.0.0" cZid="3518108" rZid="4662600"/>
+ <ern xml:id="sp" n="0.9.1" cZid="3662758" rZid="4662603"/>
+ <ern xml:id="sr" n="0.9.0" cZid="3524056" rZid="4662604"/>
+ <ern xml:id="sw" n="0.7.0" cZid="4271663" rZid="4271681"/>
+ <ern xml:id="uk" n="0.5.0" cZid="4662616" rZid="4662731"/> 
+</listERN>
+
+<!-- from which, for each $lang, we generate something like this ...
+ 
+<publicationStmt>
+ <publisher ref="https://distant-reading.net">COST Action
+  "Distant Reading for European Literary History" (CA16204)</publisher>
+ <distributor
+  ref="https://zenodo.org/communities/eltec/">Zenodo.org</distributor>
+ <date when="{listERN/date[1]}" />
+ <availability>
+  <licence target="https://creativecommons.org/licenses/by/4.0/" />
+ </availability>
+
+ <ref type="doi" target="https://doi.org/10.5281/zenodo.3462435">
+   ELTeC</ref> 
+ <ref type="doi" target="https://doi.org/10.5281/zenodo.{listERN/@zid}">
+   ELTeC release {listErn/@n}</ref>
+ <ref type="doi" target="https://doi.org/10.5281/zenodo.{listERN/ern[@xml:id=$lang]/@cZid}">ELTeC-$lang</ref>
+ <ref type="doi" target="https://doi.org/10.5281/zenodo.{listERN/ern[@xml:id=$lang]/@rZid}">
+  ELTeC-$lang release listERN/ern[@xml:id=$lang]/@n}
+ </ref>
+ </publicationStmt>
+
+-->
