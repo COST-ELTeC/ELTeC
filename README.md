@@ -73,7 +73,7 @@ The following is a list of the language-specific collections of novels included 
   * Number of novels: 100 (level 1)
   * Collection editors: Institute of the Czech National Corpus
   * URL: https://github.com/COST-ELTeC/ELTeC-cze/releases/tag/v.1.0.0
-  * version DOI: https://doi.org/10.5281/zenodo.4662459
+  * version DOI: https://doi.org/10.5281/zenodo.4662721
   * concept DOI: https://doi.org/10.5281/zenodo.4662458
 
 * **ELTeC-deu (German)**  
@@ -121,7 +121,7 @@ The following is a list of the language-specific collections of novels included 
   * Number of novels: 100 (at level 1)
   * Collection editor: Joanna Byszuk, Jan Rybicki
   * URL: https://github.com/COST-ELTeC/ELTeC-pol/releases/tag/v1.0.0
-  * version DOI: https://doi.org/10.5281/zenodo.4662596
+  * version DOI: https://doi.org/10.5281/zenodo.4662725
   * concept DOI: https://doi.org/10.5281/4662589 
 
 * **ELTeC-por (Portuguese)**  
@@ -178,7 +178,7 @@ The following is a list of the language-specific collections of novels included 
   * Collection editor: Dmytro Yesypenko and Mykhailo Nazarenko
   * URL: https://github.com/COST-ELTeC/ELTeC-ukr/releases/tag/v0.5.0
   * version DOI: https://doi.org/10.5281/zenodo.4662617
-  * concept DOI: https://doi.org/10.5281/4662616 
+  * concept DOI: https://doi.org/10.5281/4662731 
 
 
 ## Schema repository 
