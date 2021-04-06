@@ -20,14 +20,15 @@ Performing the following steps requires access to all Github repositories in the
 3. Ideally, save and keep the tab open. (But new saved releases are kept by Zenodo even when the tab is closed.) 
 4. On Github, check readme.md of the collection: update release statement with new publication date, version number and version DOI. 
 5. Add the following information to the list: release number, version DOI (and, in the case of new collections: concept DOI)
-6. Update the listERM.xml file in the top-level ELTEC repository (Lou)
-7. Use Lou's script to update the publication statement of all XML files: new publication date, new version DOI of ELTeC umbrella, new version DOI of corpus (and for new corpora: new concept DOI) (Lou)
-8. Make the actual release. Give it a name describing the release, for example: "Release with 100 novels at level 1."
-9. Download the ZIP. Naming scheme: "ELTeC-{lang}xxx-{version}.zip", for example "ELTeC-fra-v1.2.0.zip".  
-10. In the corresponding Zenodo entry, add and upload new ZIP, delete old ZIP. 
-11. Also replace the "readme.md" and "metadata.tsv" files. 
-12. Also update the metadata, especially the version number and Github release link (related identifiers)
-13. Save and publish. 
+6. Update the listERM.xml file in the top-level ELTEC repository (Lou). The file listERM.xml is used by the checkUp.xsl script to produce a new <publicationStmt> in each file which is part of the new release (new publication date, new version DOI of ELTeC umbrella, new version DOI of corpus, and for new corpora: new concept DOI).
+7. Run the checkUp.xsl script, which also carries out a series of tests on the metadata and structure of each file, beyond simply checking validity against a schema. It produces warning and error messages if anything seems wrong. 
+8. If the number of errors is small and easily fixed, it's easiest to just fix them. If however they are more numerous, or require more attention, the editor of the repository concerned must be informed. (A python script (checkRepo.py) may be used to run checkUp.xsl against each file in a repository, saving the validated and ready-for-publication files in a folder called Out. It requires a command line argument to specify the language suffix for the repository to be processed.
+9. On Github, make the actual new release of the repository. Give it a succinctly name describing the release, for example: "Release with 100 novels at level 1."
+10. Download the ZIP. Naming scheme: "ELTeC-{lang}xxx-{version}.zip", for example "ELTeC-fra-v1.2.0.zip".  
+11. In the corresponding Zenodo entry, add and upload new ZIP, delete old ZIP. 
+12. Also add or replace the "readme.md" and "metadata.tsv" files, separately, in the Zenodo entry.   
+13. Also update the metadata, especially the version number and Github release link (related identifiers). 
+14. Save and publish. 
 
 ## For the ELTeC umbrella collection
 
