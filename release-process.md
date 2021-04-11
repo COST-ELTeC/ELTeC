@@ -25,10 +25,10 @@ Performing the following steps requires access to all Github repositories in the
 8. If the number of errors is small and easily fixed, it's easiest to just fix them. If however they are more numerous, or require more attention, the editor of the repository concerned must be informed. (A python script (checkRepo.py) may be used to run checkUp.xsl against each file in a repository, saving the validated and ready-for-publication files in a folder called Out. It requires a command line argument to specify the language suffix for the repository to be processed.
 9. On Github, make the actual new release of the repository. Give it a succinctly name describing the release, for example: "Release with 100 novels at level 1."
 10. Download the ZIP. Naming scheme: "ELTeC-{lang}xxx-{version}.zip", for example "ELTeC-fra-v1.2.0.zip".  
-11. In the corresponding Zenodo entry, add and upload new ZIP, delete old ZIP. 
-12. Also add or replace the "readme.md" and "metadata.tsv" files, separately, in the Zenodo entry.   
-13. Also update the metadata, especially the version number and Github release link (related identifiers). 
-14. Save and publish. 
+11. Extract the "readme.md" and "metadata.csv" separately. 
+12. In the corresponding Zenodo entry: delete old files; add and upload new files (ZIP-archive, readme.md, metadata.csv)
+14. Also update the metadata, especially the title, version number, release description, and Github release link (related identifiers). 
+15. Save and publish. 
 
 ## For the ELTeC umbrella collection
 
