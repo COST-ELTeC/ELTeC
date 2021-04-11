@@ -26,7 +26,7 @@ For more general questions, please contact the Working Group lead, Martina Schol
 
 ## Release notes
 
-### v1.1.0 (April 5, 2021; DOI: https://doi.org/10.5281/zenodo.4662444)
+### v1.1.0 (April 11, 2021; DOI: https://doi.org/10.5281/zenodo.4662444)
 
 ELTeC is work in progress and the current release reflects this. This release contains 14 different corpora in total with at least 50 novels each. Collections in this release include: Czech, German, English, French, Hungarian, Norwegian, Polish, Portuguese, Romanian, Slovenian, Spanish, Serbian, Swedish and Ukrainian. There are 8 corpora that are complete, containing 100 novels. There are 3 complete corpora that also provide versions with linguistic annotation. See the section "Corpora included" below for details on each collection. 
 
