@@ -9,13 +9,17 @@ Performing the following steps requires access to all Github repositories in the
 1. On Zenodo, make sure the automatic Github-Zenodo link is deactivated for all repositories except for the Schema repository. 
 2. On Zenodo, start the process of making a new version of the record in order to reserve and recover a new DOI for the umbrella collection. 
 
-## For each collection
+## Steps to take to prepare collections for release (Lou)
+
+(tbd)
+
+## For each collection (Lou and Christof)
 
 1. Make a list of all collections that have been updated or added recently. 
-1. If the collection already existst, skip to step #2. If the collection does not exist yet, do the following: 
+1. If the collection already exists, skip to step #2. If the collection does not exist yet, do the following: 
     1. Create the collection. 
     2. Make a dummy release v0.0.1 just with the readme.md as data. 
-	  3. Proceed with the next steps. 
+    3. Proceed with the next steps. 
 2. On Zenodo, make a new version to reserve a new DOI for the collection. Update the metadata (title, version and version description, in particular).   
 3. Ideally, save and keep the tab open. (But new saved releases are kept by Zenodo even when the tab is closed.) 
 4. On Github, check readme.md of the collection: update release statement with new publication date, version number and version DOI. 
