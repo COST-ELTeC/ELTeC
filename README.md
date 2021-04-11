@@ -184,8 +184,8 @@ The following is a list of the language-specific collections of novels included 
 ## Schema repository 
   
 * **Schemas** 
-  * v0.8.0 ("April 2021 release")
-  * URL: https://github.com/COST-ELTeC/Schemas/releases/tag/v0.8.0
-  * version DOI: https://doi.org/10.5281/zenodo.4662734
+  * v0.8.1 ("Real April 2021 release")
+  * URL: https://github.com/COST-ELTeC/Schemas/releases/tag/v0.8.1
+  * version DOI: https://doi.org/10.5281/zenodo.4679363
   * concept DOI: https://doi.org/10.5281/zenodo.3490757
 
