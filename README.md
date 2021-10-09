@@ -72,7 +72,7 @@ The following is a list of the language-specific collections of novels included 
   * v1.0.0 (April 5, 2021)
   * Number of novels: 100 (level 1)
   * Collection editors: Institute of the Czech National Corpus
-  * URL: https://github.com/COST-ELTeC/ELTeC-cze/releases/tag/v.1.0.0
+  * URL: https://github.com/COST-ELTeC/ELTeC-cze/releases/tag/v1.0.0
   * version DOI: https://doi.org/10.5281/zenodo.4662721
   * concept DOI: https://doi.org/10.5281/zenodo.4662458
 
@@ -80,7 +80,7 @@ The following is a list of the language-specific collections of novels included 
   * v1.0.0 (April 5, 2021)
   * Number of novels: 100 (level 0)
   * Collection editors: Fotis Jannidis, Leonard Konle, Carolin Odebrecht, an algorithm
-  * URL: https://github.com/COST-ELTeC/ELTeC-deu/releases/tag/v.1.0.0
+  * URL: https://github.com/COST-ELTeC/ELTeC-deu/releases/tag/v1.0.0
   * version DOI: https://doi.org/10.5281/zenodo.4662482
   * concept DOI: https://doi.org/10.5281/zenodo.3543243
 
