@@ -62,6 +62,11 @@ If you use any ELTeC collection(s) in your teaching or research, please referenc
   }
 ```
 
+In addition, or alternatively, you may cite one of the reference publications about ELTeC: 
+
+* Lou Burnard, Christof Schöch, Carolin Odebrecht (2021): "In Search of Comity: TEI for Distant Reading", in: _Journal of the Text Encoding Initiative_ 14. DOI: https://doi.org/10.4000/jtei.3500. 
+* Christof Schöch, Roxana Patraș, Diana Santos, Tomaž Erjavec (2021): "Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives", in: _Modern Languages Open_ 1/25. DOI: http://doi.org/10.3828/mlo.v0i0.364.
+
 ## Collections included
 
 The following is a list of the language-specific collections of novels included in the current release, in alphabetical order. For each collection, we indicate the version number and date of this particular release of the collection, a brief description of the release content, the collection editors, the URL where it can be found on Github as well as its DOI. In addition, we indicate the concept DOI of all releases of the collection. 
