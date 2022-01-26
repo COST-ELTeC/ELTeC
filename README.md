@@ -9,12 +9,13 @@ This is the umbrella repository that references the corpora contained in any giv
 ELTeC aims to provide multiple corpora of 100 novels published between 1840 and 1920 in their original language. There are corpora for multiple European languages, but the novels included in them are not translations of each other. Each corpus follows the same criteria for corpus composition, but these criteria allow for some flexibility. The level of compliance with the corpus composition criteria is summarized in the E5C score. The novels are encoded in a common manner according to a specific subset of the Guidelines of the *Text Encoding Initiative* that is documented in a three-tiered schema. More detailed information on ELTeC can be found in the following places: 
 
 * An overview of the current state in ELTeC corpus building can be found here: https://distantreading.github.io/ELTeC/
-* ELTeC is described succinctly here: https://www.distant-reading.net/eltec/. 
+* ELTeC is described succinctly here: https://www.distant-reading.net/eltec/
 * Work on the ELTeC collections is in progress here: https://github.com/COST-ELTeC
 * The criteria used for corpus composition can be found here: https://distantreading.github.io/sampling_proposal.html
 * The encoding guidelines used for the XML-TEI markup (level 1) can be found here: https://distantreading.github.io/Schema/eltec-1.html 
 * The schemas used to validate the XML-TEI files can be found here (and are included in each release): https://github.com/COST-ELTeC/Schemas 
 * ELTeC releases are made available on Zenodo in the COST-ELTeC community: https://zenodo.org/communities/eltec/search?page=1&size=25 
+* For those interested in element usage statistics, see here: https://distantreading.github.io/ELTeC/tagCounts.html
 
 The concept DOI, covering all releases of this umbrella repository and always resolving to the latest release, is the following: https://doi.org/10.5281/zenodo.3462435. 
 
